@@ -1,4 +1,5 @@
 {
+    "id": "e73b7ee7-b47b-420c-a344-a5dc20674499",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -6,7 +7,7 @@
         "Height": "Fill container",
         "Width": "Fill container",
         "Layout": "column",
-        "BackgroundColor": "rgba(165, 184, 206, 1)",
+        "BackgroundColor": "rgba(177, 133, 139, 1)",
         "Justification": "center",
         "Alignment": "center",
         "Visible": true,
@@ -31,7 +32,7 @@
             "justifyContent": "center",
             "alignItems": "center",
             "display": "flex",
-            "backgroundColor": "rgba(165, 184, 206, 1)"
+            "backgroundColor": "rgba(177, 133, 139, 1)"
         },
         "ShowStatusBar": true,
         "StatusBarStyle": "default",
@@ -344,7 +345,6 @@
             "name": "Title "
         }
     ],
-    "id": "e73b7ee7-b47b-420c-a344-a5dc20674499",
     "thunkableVersion": 443,
     "name": "Start Screen"
 }
