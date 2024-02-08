@@ -21,8 +21,8 @@
                     "createdAt": "2024-01-29T01:02:43.813Z",
                     "updatedAt": "2024-01-29T01:02:43.813Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65afd298232920be635eff10/projects/65b400ce20a690e57b59c8b8/assets/65b6f9333ee359dc89c8dae0?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240206%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240206T174106Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=09a1f64d97090878ae02ce090f33728fb7ad8df0e71b85aa7113a85b7ce70673cbf0e666cda213d70592af70ee09049baee6293888f6d28e633059105847215b9add57f849fba0f85cd7bd40c078788243e20f59789d0f78ff0022ecc373173aeb896c342e2a49b92484701f751ee2d27e9b5c6e92437db55165880892df128996fab502e863e0e5bacc4ff592cf2b552c4cc70f82bf4aaf9a2920f2b740e2c4d9fcb2c675b968b69f18a14fdfe2be418782a9d45e65c06e6ed80f14ff9f8eb4dac74686ee1cbfe9a16a4b5fdf84b92325f3600fb96a1b7646217b09aca68a550d8fe6986696f1f623d70547ea91244211459c2ae4d287ae190c81e0e6a07bb1",
-                    "signedUrlExpirationTime": 1707414066855
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65afd298232920be635eff10/projects/65b400ce20a690e57b59c8b8/assets/65b6f9333ee359dc89c8dae0?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240208%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240208T151504Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=0a1e462e953a542d95b29f551cd8796145f55032f9bb8c7f6f567ed190581da93f9667f078d0761c8efa5d696cd1c7ad5bd2919344919df7e2c7f13917f605dde50bd13f4d9d88d7d048707193650775cea9ee506388ecd8e9f4f27c72746f8128bc99cef4f3af7242f6a6efd505e57b01a7b5854c0b55f72c572e19e1691a08753b02193cd54ea7ac5f7a9e7ceb65bf664e14d583de40ec671b224012d4dad62fbe7fc222fb950c0b160790561eeae6457cf2d9b01dded716e4bd3fdde27e6f57d9a29ad33c97dcc6a05c56233d124a6db7d5fd68ff031041a147367fa3312c2ff36301920663ee41a74b11d51d0dace147266a4872fcffb9fb1dd4353630ce",
+                    "signedUrlExpirationTime": 1707578104470
                 }
             },
             "backendUpgradeVersion": 24,
@@ -104,7 +104,7 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Assignment 1 Pt.2 CSC 305",
+            "projectName": "Assignment 1 Pt.2 CSC 305 (DEV)",
             "settings": {
                 "teamId": null,
                 "appName": "Imani's Camera App",
